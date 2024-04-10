@@ -27,3 +27,5 @@ Below are listed clients that work with Nostr Remote Signers
 + [Snort.social](https://snort.social/) - A social media client
 + [Coracle](https://coracle.social/) - A social media client
 + [Wikifreedia](https://wikifreedia.vercel.app/) - A new take on Wikis
+
+Are you a maintainer of a Nostr client and are interested in implementing NIP46 in your client? [Get in touch](https://njump.me/nprofile1qqsxsvs3h524c7mkfe9enw3x8g23mqfqn0n62e4zhvvhrhqmh5ahzhsjhwnjl)
