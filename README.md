@@ -34,7 +34,7 @@ Below are listed clients that work with Nostr Remote Signers
 + [Nostree](https://nostree.me/) - A Nostr-based application to create, manage and discover link lists.
 + [Nostr.Band](https://nostr.band/) - Nostr search and trending stuff
 + [Nostrapp.link](https://nostrapp.link/) - Nostr app catalog and management
-+ [Npub.cash([https://npub.cash/) - Nostr-native ecash address for everyone
++ [Npub.cash](https://npub.cash/) - Nostr-native ecash address for everyone
 + [Nostrnests.com](https://nostrnests.com/) - Audio chat rooms on Nostr
 + [Badges.page](https://badges.page/) - Badges on Nostr
 + [Creatr.Nostr.Wine](https://creatr.nostr.wine) - support your favourite Nostr creators
