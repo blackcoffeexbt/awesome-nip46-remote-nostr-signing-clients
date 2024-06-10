@@ -1,4 +1,4 @@
-# Awesome NIP46 - Remote Nostr Signing
+# Awesome NIP46 - Nostr Connect - Nostr Remote Signing
 
 A list of Nostr clients that support NIP46 and a list of NIP46 remote signers.
 
