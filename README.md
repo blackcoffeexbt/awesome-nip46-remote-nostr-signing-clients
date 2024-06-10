@@ -40,4 +40,8 @@ Below are listed clients that work with Nostr Remote Signers
 + [Creatr.Nostr.Wine](https://creatr.nostr.wine) - support your favourite Nostr creators
 + [Slidestr](https://slidestr.net) - image-focused Nostr client
 
+## Other Software
+
++ [Smart Vaults](https://www.smartvaults.io/) - A Bitcoin collaborative custody wallet that uses Nostr
+
 Are you a maintainer of a Nostr client and are interested in implementing NIP46 in your client? [Get in touch](https://njump.me/nprofile1qqsxsvs3h524c7mkfe9enw3x8g23mqfqn0n62e4zhvvhrhqmh5ahzhsjhwnjl)
