@@ -17,6 +17,7 @@ Below is a list of software and hardware remote signers
 
 + [nsecBunker - nsecbunker.com](https://nsecbunker.com)
 + [Nsec.app - nsec.app](https://nsec.app)
++ [Rusty CRIB - crib.illuminodes.com](https://crib.illuminodes.com/)
 
 ### Debug
 
