@@ -15,6 +15,7 @@ NIP 46 is the specification for how clients can use a remote signer with a Nostr
 
 Below is a list of software and hardware remote signers
 
++ [Amber - Signer for android](https://github.com/greenart7c3/Amber)
 + [nsecBunker - nsecbunker.com](https://nsecbunker.com)
 + [Nsec.app - nsec.app](https://nsec.app)
 + [Rusty CRIB - crib.illuminodes.com](https://crib.illuminodes.com/)
