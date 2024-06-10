@@ -15,9 +15,10 @@ NIP 46 is the specification for how clients can use a remote signer with a Nostr
 
 Below is a list of software and hardware remote signers
 
-+ [Amber - Signer for android](https://github.com/greenart7c3/Amber)
-+ [nsecBunker - nsecbunker.com](https://nsecbunker.com)
-+ [Nsec.app - nsec.app](https://nsec.app)
++ [Nostr Connect Device](https://github.com/blackcoffeexbt/hardware-nostr-connect-device) - A hardware Nostr signer
++ [Amber - Signer for android](https://github.com/greenart7c3/Amber) - A NIP46 signing app for Android
++ [nsecBunker - nsecbunker.com](https://nsecbunker.com) - A NIP46 SaaS and FOSS project. Runs on your own VPS / hardware or as a SaaS
++ [Nsec.app - nsec.app](https://nsec.app) - A NIP46 Saas and FOSS project.
 + [Rusty CRIB - crib.illuminodes.com](https://crib.illuminodes.com/)
 
 ### Debug
