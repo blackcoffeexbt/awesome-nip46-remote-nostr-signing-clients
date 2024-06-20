@@ -42,6 +42,7 @@ Below are listed clients that work with Nostr Remote Signers
 + [Badges.page](https://badges.page/) - Badges on Nostr
 + [Creatr.Nostr.Wine](https://creatr.nostr.wine) - support your favourite Nostr creators
 + [Slidestr](https://slidestr.net) - image-focused Nostr client
++ [Listr](https://listr.lol/) - Collection and list curation
 
 ## Other Software
 
